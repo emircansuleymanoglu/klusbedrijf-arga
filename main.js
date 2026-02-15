@@ -1,1 +1,1 @@
-console.log("ARGA KLUS Website Loaded");
+console.log("ARGA KLUS Premium Website Loaded");
